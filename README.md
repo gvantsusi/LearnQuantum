@@ -3,8 +3,8 @@ This project is a Java-based desktop application developed using the Swing frame
 # Functionality
 The system provides a learning mode for content review and a quiz mode for self-assessment. User progress and quiz results are stored locally, enabling continuity between sessions.
 # Technologies Used
-Java
-Java Swing
+Java,
+Java Swing,
 Object-oriented programming principles
 # Execution
 The application can be executed by running MainApp.java in a standard Java development environment.
